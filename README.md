@@ -25,7 +25,7 @@
    ```
    git remote add origin 주소/Username/name of file # ex) https://github.com/sunghowoo/testing1.git/
    ```
-
+   만약 origin이라는 원격 저장소를 지우고 싶다면 git remote remove origin하면 됩니다. 그후 다시 새로운 이름으로 저장
 
 
 3.  working directory 만든 파일을 각각 인덱스에 추가하하며
