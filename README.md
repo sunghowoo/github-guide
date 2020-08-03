@@ -14,7 +14,8 @@
 
 
 
-2. ![](branch.png)
+2. 
+![](branch.png)
 
    git 에는 3가지 종류의 가지가 있음 working dir(실제 작업 디렉토리), Index dir(준비영역) , HEAD(최종확정하는 Commit) 종류가 있음 
 
